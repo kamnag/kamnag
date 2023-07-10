@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Kamnag R](https://img.shields.io/twitter/follow/rkamnag?style=social)](https://twitter.com/rkamnag)
-[![Linkedin: Kamnag R](https://img.shields.io/badge/-kamnag-r-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamnag-r/)](https://www.linkedin.com/in/kamnag-r/)
+[![Linkedin: Kamnag R](https://img.shields.io/badge/-Kamnag_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamnag-r/)](https://www.linkedin.com/in/kamnag-r/)
 
 ### <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="50"> A little more about me...  
 
